@@ -1,0 +1,443 @@
+[
+  {
+    "paths": "multiple",
+    "hours": 40,
+    "description": "Linux navigation basics, operating system interaction basics",
+    "label": "Linux Power User: Red Hat Enterprise Linux Technical Overview (RH024)",
+    "url": "https://www.redhat.com/en/services/training/rh024-red-hat-linux-technical-overview"
+  },
+  {
+    "paths": "multiple",
+    "hours": 40,
+    "description": "Linux navigation basics, operating system interaction basics",
+    "label": "Linux Power User: Getting Started with Linux Fundamentals (RH104)",
+    "url": "https://www.redhat.com/en/services/training/red-hat-training-getting-started-with-linux-fundamentals"
+  },
+  {
+    "paths": "multiple",
+    "hours": 40,
+    "description": "Core system administration tasks of Red Hat Enterprise Linux",
+    "label": "Linux Engineer (Foundational): Red Hat System Administration I (RH124)",
+    "url": "https://www.redhat.com/en/services/training/rh124-red-hat-system-administration-i"
+  },
+  {
+    "paths": "multiple",
+    "hours": 40,
+    "description": "Core system administration tasks of Red Hat Enterprise Linux",
+    "label": "Linux Engineer (Foundational): Red Hat System Administration II (RH134)",
+    "url": "https://www.redhat.com/en/services/training/rh134-red-hat-system-administration-ii"
+  },
+  {
+    "paths": "multiple",
+    "hours": 40,
+    "description": "Advanced troubleshooting and tuning practices on Red Hat Enterprise Linux",
+    "label": "Linux Engineer (Advanced): Red Hat Enterprise Linux Diagnostics and Troubleshooting (RH342)",
+    "url": "https://www.redhat.com/en/services/training/rh342-red-hat-enterprise-linux-diagnostics-and-troubleshooting"
+  },
+  {
+    "paths": "multiple",
+    "hours": 40,
+    "description": "Advanced troubleshooting and tuning practices on Red Hat Enterprise Linux",
+    "label": "Linux Engineer (Advanced): Red Hat Performance Tuning: Linux in Physical, Virtual, and Cloud (RH442)",
+    "url": "https://www.redhat.com/en/services/training/rh442-red-hat-enterprise-performance-tuning"
+  },
+  {
+    "paths": "multiple",
+    "hours": 40,
+    "description": "Advanced security policies on Red Hat Enterprise Linux",
+    "label": "Linux Engineer (Security): Red Hat Security: Identity Management and Authentication (RH362)",
+    "url": "https://www.redhat.com/en/services/training/rh362-red-hat-security-identity-management-and-authentication"
+  },
+  {
+    "paths": "multiple",
+    "hours": 40,
+    "description": "Advanced security policies on Red Hat Enterprise Linux",
+    "label": "Linux Engineer (Security): Red Hat Security: Linux in Physical, Virtual, and Cloud (RH415)",
+    "url": "https://www.redhat.com/en/services/training/rh415-red-hat-security-linux-physical-virtual-and-cloud"
+  },
+  {
+    "paths": "multiple",
+    "hours": 40,
+    "description": "Advanced deployment practices for Red Hat Enterprise Linux",
+    "label": "Linux Engineer (Deployment): Managing CentOS Migrations and RHEL Upgrades (RH174)",
+    "url": "https://www.redhat.com/en/services/training/managing-centos-migrations-and-rhel-upgrades-rh174"
+  },
+  {
+    "paths": "multiple",
+    "hours": 40,
+    "description": "Advanced deployment practices for Red Hat Enterprise Linux",
+    "label": "Linux Engineer (Deployment): New Features in Red Hat Enterprise Linux (RH304)",
+    "url": "https://www.redhat.com/en/services/training/rh304-new-features-red-hat-enterprise-linux"
+  },
+  {
+    "paths": "multiple",
+    "hours": 40,
+    "description": "Advanced deployment practices for Red Hat Enterprise Linux",
+    "label": "Linux Engineer (Deployment): Red Hat Services Management and Automation (RH358)",
+    "url": "https://www.redhat.com/en/services/training/rh358-red-hat-services-management-automation"
+  },
+  {
+    "paths": "multiple",
+    "hours": 40,
+    "description": "Advanced deployment practices for Red Hat Enterprise Linux",
+    "label": "Linux Engineer (Deployment): Red Hat Satellite 6 Administration (RH403)",
+    "url": "https://www.redhat.com/en/services/training/rh403-red-hat-satellite-6-administration"
+  },
+  {
+    "paths": "multiple",
+    "hours": 40,
+    "description": "Advanced deployment practices for Red Hat Enterprise Linux",
+    "label": "Linux Engineer (Deployment): Red Hat High Availability Clustering (RH436)",
+    "url": "https://www.redhat.com/en/services/training/rh436-red-hat-high-availability-clustering"
+  },
+  {
+    "paths": "multiple",
+    "hours": 40,
+    "description": "Apply DevOps practices to infrastructure with Ansible (playbook authoring)",
+    "label": "Automation Engineer (Foundational): Ansible Basics: Automation Technical Overview (DO007)",
+    "url": "https://www.redhat.com/en/services/training/do007-ansible-essentials-simplicity-automation-technical-overview"
+  },
+  {
+    "paths": "multiple",
+    "hours": 40,
+    "description": "Apply DevOps practices to infrastructure with Ansible (playbook authoring)",
+    "label": "Automation Engineer (Foundational): Red Hat Enterprise Linux Automation with Ansible (RH294)",
+    "url": "https://www.redhat.com/en/services/training/rh294-red-hat-linux-automation-with-ansible"
+  },
+  {
+    "paths": "multiple",
+    "hours": 40,
+    "description": "Apply DevOps practices to infrastructure with Ansible (playbook authoring)",
+    "label": "Automation Engineer (Foundational): Network Automation with Red Hat Ansible Automation Platform (DO457)",
+    "url": "https://www.redhat.com/en/services/training/do457-ansible-network-automation"
+  },
+  {
+    "paths": "multiple",
+    "hours": 40,
+    "description": "Apply DevOps practices to infrastructure with Ansible (playbook authoring)",
+    "label": "Automation Engineer (Foundational): Microsoft Windows Automation with Red Hat Ansible (DO417)",
+    "url": "https://www.redhat.com/en/services/training/do417-microsoft-windows-automation-red-hat-ansible"
+  },
+  {
+    "paths": "multiple",
+    "hours": 40,
+    "description": "Build on foundational Ansible knowledge and scale to the enterprise",
+    "label": "Automation Engineer (Enterprise): Developing Advanced Automation with Red Hat Ansible Automation Platform (DO374/AU374)",
+    "url": "https://www.redhat.com/en/services/training/do374-developing-advanced-automation-red-hat-ansible-automation-platform"
+  },
+  {
+    "paths": "multiple",
+    "hours": 40,
+    "description": "Build on foundational Ansible knowledge and scale to the enterprise",
+    "label": "Automation Engineer (Enterprise): Introduction to Event-Driven Ansible (DO274)",
+    "url": "https://www.redhat.com/en/services/training/introduction-event-driven-ansible-do274"
+  },
+  {
+    "paths": "multiple",
+    "hours": 40,
+    "description": "Build on foundational Ansible knowledge and scale to the enterprise",
+    "label": "Automation Engineer (Enterprise): Managing Enterprise Automation with Red Hat Ansible Automation Platform (DO467/AU467)",
+    "url": "https://www.redhat.com/en/services/training/do467-managing-enterprise-automation-red-hat-ansible-automation-platform"
+  },
+  {
+    "paths": "multiple",
+    "hours": 40,
+    "description": "Developing applications in a Red Hat OpenShift cluster",
+    "label": "OpenShift Development (Foundational): Containers, Kubernetes and Red Hat OpenShift Technical Overview (DO080)",
+    "url": "https://www.redhat.com/en/services/training/do080-deploying-containerized-applications-technical-overview"
+  },
+  {
+    "paths": "multiple",
+    "hours": 40,
+    "description": "Developing applications in a Red Hat OpenShift cluster",
+    "label": "OpenShift Development (Foundational): Red Hat OpenShift Development I: Introduction to Containers with Podman (DO188)",
+    "url": "https://www.redhat.com/en/services/training/do188-red-hat-open-shift-development-introduction-containers-with-podman"
+  },
+  {
+    "paths": "multiple",
+    "hours": 40,
+    "description": "Developing applications in a Red Hat OpenShift cluster",
+    "label": "OpenShift Development (Foundational): Red Hat OpenShift Developer II: Building and Deploying Cloud-native Applications (DO288)",
+    "url": "https://www.redhat.com/en/services/training/red-hat-openshift-developer-ii-building-and-deploying-cloud-native-applications"
+  },
+  {
+    "paths": "multiple",
+    "hours": 40,
+    "description": "Managing a Red Hat OpenShift production cluster",
+    "label": "OpenShift Administration (Foundational): Containers, Kubernetes and Red Hat OpenShift Technical Overview (DO080)",
+    "url": "https://www.redhat.com/en/services/training/do080-deploying-containerized-applications-technical-overview"
+  },
+  {
+    "paths": "multiple",
+    "hours": 40,
+    "description": "Managing a Red Hat OpenShift production cluster",
+    "label": "OpenShift Administration (Foundational): Red Hat OpenShift Administration I: Operating a Production Cluster (DO180)",
+    "url": "https://www.redhat.com/en/services/training/red-hat-openshift-administration-i-operating-a-production-cluster"
+  },
+  {
+    "paths": "multiple",
+    "hours": 40,
+    "description": "Managing a Red Hat OpenShift production cluster",
+    "label": "OpenShift Administration (Foundational): Red Hat OpenShift Administration II: Configuring a Production Cluster (DO280)",
+    "url": "https://www.redhat.com/en/services/training/red-hat-openshift-administration-ii-configuring-a-production-cluster"
+  },
+  {
+    "paths": "multiple",
+    "hours": 40,
+    "description": "Working with a managed Red Hat OpenShift on AWS cluster",
+    "label": "Red Hat OpenShift on AWS (Foundational): Introduction to Red Hat OpenShift Service on AWS (CS120)",
+    "url": "https://www.redhat.com/en/services/training/cs120-introduction-red-hat-openshift-service-on-aws"
+  },
+  {
+    "paths": "multiple",
+    "hours": 40,
+    "description": "Working with a managed Red Hat OpenShift on AWS cluster",
+    "label": "Red Hat OpenShift on AWS (Foundational): Creating and Configuring Production Red Hat OpenShift Service on AWS Clusters (CS220)",
+    "url": "https://www.redhat.com/en/services/training/creating-and-configuring-production-rosa-clusters-cs220"
+  },
+  {
+    "paths": "multiple",
+    "hours": 40,
+    "description": "Working with a managed Red Hat OpenShift on AWS cluster",
+    "label": "Red Hat OpenShift on AWS (Foundational): Integrating ROSA Applications with AWS Services (CS221)",
+    "url": "https://www.redhat.com/en/services/training/integrating-rosa-applications-aws-services-cs221"
+  },
+  {
+    "paths": "multiple",
+    "hours": 40,
+    "description": "Working with a managed Microsoft Azure Red Hat OpenShift cluster",
+    "label": "Microsoft Azure Red Hat OpenShift (Foundational): Containers, Kubernetes and Red Hat OpenShift Technical Overview (DO080)",
+    "url": "https://www.redhat.com/en/services/training/do080-deploying-containerized-applications-technical-overview"
+  },
+  {
+    "paths": "multiple",
+    "hours": 40,
+    "description": "Working with a managed Microsoft Azure Red Hat OpenShift cluster",
+    "label": "Microsoft Azure Red Hat OpenShift (Foundational): Introduction to Microsoft Azure Red Hat OpenShift (CS121)",
+    "url": "https://www.redhat.com/en/services/training/do121-introduction-microsoft-azure-red-hat-openshift"
+  },
+  {
+    "paths": "multiple",
+    "hours": 40,
+    "description": "Deploying a Red Hat OpenShift production cluster at scale",
+    "label": "OpenShift Administration (Enterprise): Red Hat OpenShift Administration III: Scaling Deployments in the Enterprise (DO380)",
+    "url": "https://www.redhat.com/en/services/training/do380-red-hat-openshift-administration-iii-scaling-deployments-in-the-enterprise"
+  },
+  {
+    "paths": "multiple",
+    "hours": 40,
+    "description": "Deploying a Red Hat OpenShift production cluster at scale",
+    "label": "OpenShift Administration (Enterprise): Red Hat OpenShift Installation Lab (DO322)",
+    "url": "https://www.redhat.com/en/services/training/do322-red-hat-openshift-installation-lab"
+  },
+  {
+    "paths": "multiple",
+    "hours": 40,
+    "description": "Deploying a Red Hat OpenShift production cluster at scale",
+    "label": "OpenShift Administration (Enterprise): Securing Kubernetes Clusters with Red Hat Advanced Cluster Security (DO430)",
+    "url": "https://www.redhat.com/en/services/training/do430-securing-kubernetes-clusters-red-hat-advanced-cluster-security"
+  },
+  {
+    "paths": "multiple",
+    "hours": 40,
+    "description": "Deploying a Red Hat OpenShift production cluster at scale",
+    "label": "OpenShift Administration (Enterprise): Multicluster Management with Red Hat Advanced Cluster Management for Kubernetes (DO432)",
+    "url": "https://www.redhat.com/en/services/training/do432-multicluster-management-red-hat-advanced-cluster-management-kubernetes"
+  },
+  {
+    "paths": "multiple",
+    "hours": 40,
+    "description": "Deploying a Red Hat OpenShift production cluster at scale",
+    "label": "OpenShift Administration (Enterprise): Enterprise Kubernetes Storage with Red Hat OpenShift Data Foundation (DO370)",
+    "url": "https://www.redhat.com/en/services/training/do370-enterprise-kubernetes-storage-with-red-hat-openshift-data-foundation"
+  },
+  {
+    "paths": "multiple",
+    "hours": 40,
+    "description": "Managing virtual machines with Red Hat OpenShift Virtualization",
+    "label": "OpenShift Administration (Migration): Managing Virtual Machines with Red Hat OpenShift Virtualization (DO316)",
+    "url": "https://www.redhat.com/en/services/training/do316-managing-virtual-machines-red-hat-openshift-virtualization"
+  },
+  {
+    "paths": "multiple",
+    "hours": 40,
+    "description": "Managing virtual machines with Red Hat OpenShift Virtualization",
+    "label": "OpenShift Administration (Migration): Automate and Manage Red Hat OpenShift Virtualization with Ansible (DO336)",
+    "url": "https://www.redhat.com/en/services/training/do336-automate-manage-red-hat-openshift-virtualization-with-ansible"
+  },
+  {
+    "paths": "multiple",
+    "hours": 40,
+    "description": "Managing virtual machines with Red Hat OpenShift Virtualization",
+    "label": "OpenShift Administration (Migration): Migrating Virtual Machines to Red Hat OpenShift Virtualization with Ansible Automation Platform (DO346)",
+    "url": "https://www.redhat.com/en/services/training/do346-migrating-virtual-machines-to-red-hat-openshift-virtualization-ansible-automation-platform"
+  },
+  {
+    "paths": "multiple",
+    "hours": 40,
+    "description": "Managing application security with API management and single sign-on",
+    "label": "OpenShift Administration (Applications): Red Hat Agile Integration Technical Overview (DO040)",
+    "url": "https://www.redhat.com/en/services/training/do040-red-hat-agile-integration-technical-overview"
+  },
+  {
+    "paths": "multiple",
+    "hours": 40,
+    "description": "Managing application security with API management and single sign-on",
+    "label": "OpenShift Administration (Applications): Cloud-native API Administration with Red Hat 3scale API Management (DO240)",
+    "url": "https://www.redhat.com/en/services/training/do240-cloud-native-api-admin-red-hat-3scale-api-management"
+  },
+  {
+    "paths": "multiple",
+    "hours": 40,
+    "description": "Managing application security with API management and single sign-on",
+    "label": "OpenShift Administration (Applications): Red Hat Single Sign-On Administration (DO313)",
+    "url": "https://www.redhat.com/en/services/training/do313-red-hat-single-sign-on-administration"
+  },
+  {
+    "paths": "multiple",
+    "hours": 40,
+    "description": "Developing/Deploying AI/ML workloads",
+    "label": "RHEL AI (Foundational): Red Hat Enterprise Linux AI Technical Overview (AI096)",
+    "url": "https://www.redhat.com/en/services/training/ai096-red-hat-enterprise-Linux-ai-technical-overview"
+  },
+  {
+    "paths": "multiple",
+    "hours": 40,
+    "description": "Developing/Deploying AI/ML workloads",
+    "label": "RHEL AI (Foundational): Develop, Test, and Run Granite Family LLMs with Red Hat Enterprise Linux AI (AI296)",
+    "url": "https://www.redhat.com/en/services/training/ai296-develop-test-run-granite-family-llms-red-hat-enterprise-linux-ai"
+  },
+  {
+    "paths": "multiple",
+    "hours": 40,
+    "description": "Developing/Deploying AI/ML workloads on Red Hat OpenShift AI",
+    "label": "OpenShift AI (Foundational): Red Hat OpenShift AI Technical Overview (AI067)",
+    "url": "https://www.redhat.com/en/services/training/ai067-red-hat-openshift-ai-technical-overview"
+  },
+  {
+    "paths": "multiple",
+    "hours": 40,
+    "description": "Developing/Deploying AI/ML workloads on Red Hat OpenShift AI",
+    "label": "OpenShift AI (Foundational): Developing and Deploying AI/ML Applications on Red Hat OpenShift AI (AI267)",
+    "url": "https://www.redhat.com/en/services/training/developing-and-deploying-aiml-applications-red-hat-openshift-ai-ai267"
+  },
+  {
+    "paths": "multiple",
+    "hours": 40,
+    "description": "Learning to program in Python",
+    "label": "Python Development (Foundational): Python Programming with Red Hat (AD141)",
+    "url": "https://www.redhat.com/en/services/training/ad141-red-hat-training-presents-introduction-to-python-programming"
+  },
+  {
+    "paths": "multiple",
+    "hours": 40,
+    "description": "Implementing Java applications at an enterprise level",
+    "label": "Java Development (Foundational): Red Hat Agile Integration Technical Overview (DO040)",
+    "url": "https://www.redhat.com/en/services/training/do040-red-hat-agile-integration-technical-overview"
+  },
+  {
+    "paths": "multiple",
+    "hours": 40,
+    "description": "Implementing Java applications at an enterprise level",
+    "label": "Java Development (Foundational): Red Hat Application Development I: Programming in Java EE (AD183)",
+    "url": "https://www.redhat.com/en/services/training/ad183-red-hat-application-development-i-programming-java-ee"
+  },
+  {
+    "paths": "multiple",
+    "hours": 40,
+    "description": "Implementing Java applications at an enterprise level",
+    "label": "Java Development (Foundational): Cloud-native Integration with Red Hat Fuse and Apache Camel (AD221)",
+    "url": "https://www.redhat.com/en/services/training/ad221-cloud-native-integration-with-red-hat-fuse"
+  },
+  {
+    "paths": "multiple",
+    "hours": 40,
+    "description": "Developing microservice-based applications in a Red Hat OpenShift cluster",
+    "label": "Microservices Development (Foundational): Developing Cloud-Native Applications with Microservices Architectures (DO092)",
+    "url": "https://www.redhat.com/en/services/training/do092-developing-cloud-native-applications-microservices-architectures"
+  },
+  {
+    "paths": "multiple",
+    "hours": 40,
+    "description": "Developing microservice-based applications in a Red Hat OpenShift cluster",
+    "label": "Microservices Development (Foundational): Red Hat Cloud-native Microservices Development with Quarkus (DO378)",
+    "url": "https://www.redhat.com/en/services/training/red-hat-cloud-native-microservices-development-quarkus-do378"
+  },
+  {
+    "paths": "multiple",
+    "hours": 40,
+    "description": "Developing microservice-based applications in a Red Hat OpenShift cluster",
+    "label": "Microservices Development (Foundational): Building Resilient Microservices with Istio and Red Hat OpenShift Service Mesh (DO328)",
+    "url": "https://www.redhat.com/en/services/training/do328-building-resilient-microservices-with-istio-and-red-hat-openshift-service-mesh"
+  },
+  {
+    "paths": "multiple",
+    "hours": 40,
+    "description": "Developing event-driven microservice applications",
+    "label": "Event-Driven Application Development (Foundational): Event-Driven Architecture with Apache Kafka and Red Hat OpenShift Application Services Technical Overview (AD082)",
+    "url": "https://www.redhat.com/en/services/training/ad082-event-driven-architecture-apache-kafka-red-hat-openshift-application-services-technical-overview"
+  },
+  {
+    "paths": "multiple",
+    "hours": 40,
+    "description": "Developing event-driven microservice applications",
+    "label": "Event-Driven Application Development (Foundational): Developing Event-Driven Applications with Apache Kafka and Red Hat AMQ Streams (AD482)",
+    "url": "https://www.redhat.com/en/services/training/ad482-developing-event-driven-applications-apache-kafka-and-red-hat-amq-streams"
+  },
+  {
+    "paths": "multiple",
+    "hours": 40,
+    "description": "Deploying event-driven applications in a serverless architecture",
+    "label": "Event-Driven Serverless Development (Foundational): Developing Applications with Red Hat OpenShift Serverless and Knative (DO244)",
+    "url": "https://www.redhat.com/en/services/training/do244-developing-applications-with-red-hat-openshift-serverless-and-knative"
+  },
+  {
+    "paths": "multiple",
+    "hours": 40,
+    "description": "Managing a Red Hat JBoss Enterprise Application Platform",
+    "label": "JBoss Application Administration (Foundational): Red Hat JBoss Application Administration I (AD248)",
+    "url": "https://www.redhat.com/en/services/training/ad248-red-hat-jboss-application-administration-i"
+  },
+  {
+    "paths": "multiple",
+    "hours": 40,
+    "description": "Managing a Red Hat JBoss Enterprise Application Platform",
+    "label": "JBoss Application Administration (Foundational): Introduction to Red Hat JBoss Enterprise Application Platform 8 (AD258)",
+    "url": "https://www.redhat.com/en/services/training/ad258-introduction-red-hat-jboss-enterprise-application-platform-8"
+  },
+  {
+    "paths": "multiple",
+    "hours": 40,
+    "description": "Digital transformation journey: the change in people, processes, and culture",
+    "label": "DevOps/Site Reliability Engineering: DevOps Culture and Practice Enablement (TL500)",
+    "url": "https://www.redhat.com/en/services/training/tl500-devops-culture-and-practice-enablement"
+  },
+  {
+    "paths": "multiple",
+    "hours": 40,
+    "description": "Digital transformation journey: the change in people, processes, and culture",
+    "label": "DevOps/Site Reliability Engineering: Open Practices for your DevOps Journey (TL250)",
+    "url": "https://www.redhat.com/en/services/training/tl250-red-hat-training-open-practices-your-devops-journey"
+  },
+  {
+    "paths": "multiple",
+    "hours": 40,
+    "description": "Digital transformation journey: the change in people, processes, and culture",
+    "label": "DevOps/Site Reliability Engineering: Red Hat DevOps Pipelines and Processes: CI/CD with Jenkins, Git, and Test-Driven Development (DO400)",
+    "url": "https://www.redhat.com/en/services/training/do400-red-hat-devops-pipelines-and-processes-with-jenkins-git-and-test-driven-development"
+  },
+  {
+    "paths": "multiple",
+    "hours": 40,
+    "description": "Digital transformation journey: the change in people, processes, and culture",
+    "label": "DevOps/Site Reliability Engineering: Transitional approach to implementing pragmatic Site Reliability Engineering (SRE) Technical Overview (TL012)",
+    "url": "https://www.redhat.com/en/services/training/transitional-approach-implementing-pragmatic-site-reliability-engineering-sre-technical-overview"
+  },
+  {
+    "paths": "multiple",
+    "hours": 40,
+    "description": "Digital transformation journey: the change in people, processes, and culture",
+    "label": "DevOps/Site Reliability Engineering: Introduction to Pragmatic Site Reliability Engineering (SRE)",
+    "url": "https://www.redhat.com/en/services/training/tl260-introduction-to-pragmatic-site-reliability-engineering"
+  }
+]
